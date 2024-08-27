@@ -2,7 +2,7 @@
 
 <h3>✍ About Me</h3>
 
-<h4 align="center">I'm currently a 3rd year BSIT student majoring in Web and Mobile Development at Bulacan State University. Hoping to become a front-end developer.</h4>
+<h4 align="center">I'm currently a 3rd year BSIT student specializing in Web and Mobile Development at Bulacan State University. Hoping to become a front-end developer.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=angeloparungao&label=Profile%20views&color=0e75b6&style=flat" alt="angeloparungao" /> </p>
 
