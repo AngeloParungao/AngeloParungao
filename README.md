@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://parungaoangelomiguel.vercel.app/home]
+- 👨‍💻 All of my projects are available at https://parungaoangelomiguel.vercel.app/
 
 - 📫 How to reach me **angelomiguel.parungao.lapuz@gmail.com**
 
