@@ -1,18 +1,21 @@
 <h1 align="center">Hi 👋, I'm Angelo</h1>
-<h3 align="center">🎓 I am a fourth-year Bachelor of Science in Information Technology student at Bulacan State University, specializing in Web and Mobile Development. With a strong passion for creating engaging and user-friendly digital experiences, I aspire to excel as a front-end developer.</h3>
+<h3 align="center">
+  I'm a web developer who loves building clean, responsive, and scalable apps for the web and mobile. I work mostly with React.js, Tailwind CSS, Node.js, and MySQL, and enjoy working across both frontend and backend. I take pride in creating intuitive, user-friendly interfaces and writing code that just works. Always learning, always building.
+</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=angeloparungao&label=Profile%20views&color=0e75b6&style=flat" alt="angeloparungao" /> </p>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://angeloparungao.netlify.app/](https://angeloparungao.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://angeloparungao.netlify.app/](https://angeloparungao.netlify.app/)](https://parungaoangelomiguel.vercel.app/home)
 
-- 📫 How to reach me **angeloparungao.ap@gmail.com**
+- 📫 How to reach me **angelomiguel.parungao.lapuz@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/https://www.facebook.com/parungao.angelo.2802" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/parungao.angelo.2802" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/eyemel_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/eyemel_/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/Parungaoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/parungao.angelo.2802" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/miiguel.parungao/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/eyemel_/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
